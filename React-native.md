@@ -4,7 +4,7 @@ Toolkit
   * No build required
   * Use Expo client
 * [Expo](https://docs.expo.io/versions/latest/introduction/index.html)
-  * Full Expo Service available
+  * Full Expo Service available
 * Building with native project
 
 IDE
