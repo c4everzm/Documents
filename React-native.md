@@ -3,6 +3,12 @@ How it works
 * Packager
 * Native
 
+Key Concepts
+* Component
+* Renders
+* State
+* Props
+
 Toolkit
 * [Create React Native App](https://github.com/react-community/create-react-native-app)
   * Quick Start
