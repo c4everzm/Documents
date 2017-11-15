@@ -30,4 +30,9 @@ API Reference
 React-native-windows
 * [Installation](https://github.com/Microsoft/react-native-windows)
 * Intergration Details
+
+Other Tools
 * [ReactXP](https://microsoft.github.io/reactxp/docs/getting-started.html)
+* [Redux](https://redux.js.org/)
+* [Flux](http://facebook.github.io/flux/)
+* Typescript
