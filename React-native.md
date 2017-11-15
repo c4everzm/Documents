@@ -19,3 +19,4 @@ API Reference
 React-native-windows
 * [Installation](https://github.com/Microsoft/react-native-windows)
 * Intergration Details
+* [ReactXP](https://microsoft.github.io/reactxp/docs/getting-started.html)
